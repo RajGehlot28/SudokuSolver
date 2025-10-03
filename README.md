@@ -6,4 +6,4 @@ It is my web dev project that give you some sudoku by fetching it from API and y
 <br>
 Technology Used- HTML, CSS, JAVASCRIPT
 <br>
-Algorightm used - Recursion and Backtracking
+Algorithm used - Recursion and Backtracking
